@@ -2,7 +2,7 @@
 
 ## A Personal Portfolio 🚀
 
-## [Demo Link](https://dopefolio.netlify.app) 🔗
+## [Demo Link](https://h2oox.github.io) 🔗
 
 
 ## License 📄
