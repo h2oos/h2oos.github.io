@@ -1,6 +1,6 @@
 # Portfolio 🔥
 
-## A Blazing Fast Multipage Portfolio Template for Developers 🚀
+## A Personal Portfolio 🚀
 
 ## [Demo Link](https://dopefolio.netlify.app) 🔗
 
