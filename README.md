@@ -2,7 +2,7 @@
 
 ## A Personal Portfolio 🚀
 
-## [Demo Link](https://h2oox.github.io) 🔗
+## [Demo Link](https://h2oos.github.io) 🔗
 
 
 ## License 📄
